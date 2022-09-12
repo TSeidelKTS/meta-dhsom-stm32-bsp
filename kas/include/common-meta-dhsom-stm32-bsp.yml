@@ -16,7 +16,7 @@ repos:
       meta:
 
   meta-mainline-common:
-    url: https://source.denx.de/denx/meta-mainline-common.git
+    url: https://github.com/TSeidelKTS/meta-mainline-common.git
     refspec: dunfell-3.1
 
   meta-dhsom-stm32-bsp:
