@@ -3,35 +3,35 @@ choice
   help
     OE MACHINE to use during the build.
 
-config MACHINE_STM32MP1_DHCOM_PDK2
-  bool "DH STM32MP15xx DHCOM PDK2"
-  help
-    OE MACHINE variable is set to dh-stm32mp1-dhcom-pdk2 .
+#config MACHINE_STM32MP1_DHCOM_PDK2
+#  bool "DH STM32MP15xx DHCOM PDK2"
+#  help
+#    OE MACHINE variable is set to dh-stm32mp1-dhcom-pdk2 .
 
-config MACHINE_STM32MP1_DHCOM_DRC02
-  bool "DH STM32MP15xx DHCOM DRC02"
-  help
-    OE MACHINE variable is set to dh-stm32mp1-dhcom-drc02 .
+#config MACHINE_STM32MP1_DHCOM_DRC02
+#  bool "DH STM32MP15xx DHCOM DRC02"
+#  help
+#    OE MACHINE variable is set to dh-stm32mp1-dhcom-drc02 .
 
-config MACHINE_STM32MP1_DHCOM_PICOITX
-  bool "DH STM32MP15xx DHCOM PicoITX"
-  help
-    OE MACHINE variable is set to dh-stm32mp1-dhcom-picoitx .
+#config MACHINE_STM32MP1_DHCOM_PICOITX
+#  bool "DH STM32MP15xx DHCOM PicoITX"
+#  help
+#    OE MACHINE variable is set to dh-stm32mp1-dhcom-picoitx .
 
-config MACHINE_STM32MP1_DHCOR_AVENGER96
-  bool "DH STM32MP15xx DHCOR Avenger96"
-  help
-    OE MACHINE variable is set to dh-stm32mp1-dhcor-avenger96 .
+#config MACHINE_STM32MP1_DHCOR_AVENGER96
+#  bool "DH STM32MP15xx DHCOR Avenger96"
+#  help
+#    OE MACHINE variable is set to dh-stm32mp1-dhcor-avenger96 .
 
 config MACHINE_STM32MP1_DHCOR_KTSRCU
   bool "DH STM32MP15xx DHCOR based KTS RCU"
   help
     OE MACHINE variable is set to dh-stm32mp1-dhcor-kts-rcu .
 
-config MACHINE_STM32MP1_DHCOR_DRC_COMPACT
-  bool "DH STM32MP15xx DHCOR DRC Compact"
-  help
-    OE MACHINE variable is set to dh-stm32mp1-dhcor-drc-compact .
+#config MACHINE_STM32MP1_DHCOR_DRC_COMPACT
+#  bool "DH STM32MP15xx DHCOR DRC Compact"
+#  help
+#    OE MACHINE variable is set to dh-stm32mp1-dhcor-drc-compact .
 
 endchoice
 
