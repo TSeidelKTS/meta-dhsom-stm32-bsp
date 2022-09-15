@@ -1,6 +1,6 @@
 diff --git "a/C:\\Projekte\\stm32mp157a-avenger96.dts" "b/C:\\Projekte\\stm32mp157a-avenger96_sdmmc_v3v3.dts"
 index 7b8c3f2..b1a1b6c 100644
-+++ b/arch/arm/boot/dts/stm32mp157a-avenger96_sdmmc_v3v3.dts
+--- b/arch/arm/boot/dts/stm32mp157a-avenger96_sdmmc_v3v3.dts
 +++ b/arch/arm/boot/dts/stm32mp157a-avenger96_sdmmc_v3v3.dts
 @@ -223,8 +223,8 @@
  
